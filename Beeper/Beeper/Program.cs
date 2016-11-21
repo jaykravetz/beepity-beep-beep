@@ -18,7 +18,7 @@ namespace Beeper
                 System.Threading.Thread.Sleep(800);
             }
 
-            Console.WriteLine("Im done beeping now");
+            Console.WriteLine("I'm done beeping now.");
             Console.WriteLine("Thank you for listening.");
 
             System.Threading.Thread.Sleep(2000);
